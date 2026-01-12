@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Java Keyboard Event Logger</title>
-</head>
-<body>
+
 
     <h2>Overview</h2>
     <ul>
@@ -32,5 +26,3 @@ java -jar ./target/keylogger-jar-with-dependencies.jar
         <li>Safe, educational demonstration of system monitoring</li>
     </ul>
 
-</body>
-</html>
